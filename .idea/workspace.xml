@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ba84545-69c7-41a7-952b-090834caf99f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2DGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CollisionChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/maps/map01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/maps/world01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/player/boy_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/player/boy_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/player/boy_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/player/boy_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/player/boy_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/player/boy_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/player/boy_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/player/boy_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/tiles/earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/tiles/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/tiles/sand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/tiles/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/tiles/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/tiles/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tilr/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tilr/TileManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RFBujRiZxnZduzvJ32uFsNJVsg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaPractice\2DGame\src\res\maps" />
+      <recent name="D:\JavaPractice\2DGame\src\res\tiles" />
+      <recent name="D:\JavaPractice\2DGame\src" />
+      <recent name="D:\JavaPractice\2DGame\res" />
+      <recent name="D:\JavaPractice\2DGame" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="2DGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ba84545-69c7-41a7-952b-090834caf99f" name="Changes" comment="" />
+      <created>1686836174153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686836174153</updated>
+      <workItem from="1686836176137" duration="2099000" />
+      <workItem from="1686839350484" duration="8493000" />
+      <workItem from="1686907729387" duration="27000" />
+      <workItem from="1687164039427" duration="10287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
